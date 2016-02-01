@@ -1,0 +1,1 @@
+ I was able to set line numbers in Vi by hitting ESC, colon, and entering the command "set number".
