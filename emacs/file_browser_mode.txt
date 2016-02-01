@@ -1,0 +1,1 @@
+I was able to enter file browser mode by using CTRL-x d. From there I was shown a directory of my emacs folder and was able to navigate through all my files in that manner. 

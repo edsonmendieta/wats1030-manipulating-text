@@ -1,0 +1,1 @@
+I was able to play Tetris in emacs by pressing the ESC key, pressing the x key to bring up the M-x prompt, and then entering the word tetris and pressing enter.

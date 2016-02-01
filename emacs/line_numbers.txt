@@ -1,0 +1,1 @@
+You can turn on line numbers in emacs by hitting the ESC key, hitting "x", and entering "linum-mode" at the M-x prompt.
